@@ -11,7 +11,7 @@
 * Successful booking confirmation page
 * Profile section for discounts
 
-### PS: The UI is basic and not focused on but focus was on he developement side and forntend-backend integration.
+### PS: The UI is basic and not focused on whereas the focus lied upon the developement side and frontend-backend integration.
 
 
 Login page 
