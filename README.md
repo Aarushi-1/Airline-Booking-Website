@@ -1,5 +1,18 @@
 # Airline-Booking-Website
 
+## A complete booking website for the airline company - BEST Airlines.
+
+### Key Features
+
+* Login and Logout Sessions maintained
+* List of available flights
+* 'Choose Seat' option with complete view of the flight
+* 'Addd ons for food' option for pre booked meals
+* Successful booking confirmation page
+* Profile section for discounts
+
+
+
 Login page 
 
 
