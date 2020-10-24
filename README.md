@@ -11,6 +11,7 @@
 * Successful booking confirmation page
 * Profile section for discounts
 
+### PS: The UI is basic and not focused on but focus was on he developement side and forntend-backend integration.
 
 
 Login page 
